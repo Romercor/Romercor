@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Timofei</h1>
-<h3 align="center">A passionate developer from the Russia, currently studying in Germany. I love all around the programming and try to dischover new arreas in different fields</h3>
+<h3 align="center">A passionate developer from the Russia, currently studying in Germany. I love all around the programming and try to discover new arreas in different fields</h3>
 
 - 📫 How to reach me **dabinai2015@gmail.com**
 
